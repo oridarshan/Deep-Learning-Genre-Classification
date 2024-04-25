@@ -7,6 +7,7 @@ Our idea is to use RNN technique with LSTM units and Feed-Forward networkd with 
 ## 1. Naive attempt
 
 Before training complex models, we trained and tested basic softmax and also MLP networks with 4 layers to get results to compete with (and also to understand the difficulty of the database):
+
 ![image](https://github.com/oridarshan/Deep-Learning-Genre-Classification/assets/89981387/676dbcfb-fd5b-4ab9-bb77-39ad43e4ae37)
 
 ![image](https://github.com/oridarshan/Deep-Learning-Genre-Classification/assets/89981387/09b6cd85-f78b-4a07-aed0-4bb02a94f91f)
