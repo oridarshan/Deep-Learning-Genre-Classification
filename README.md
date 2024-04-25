@@ -1,6 +1,7 @@
 # Spotify-Genre-Classification
 
-We worked about Spotify music dataset which can be found [here](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset/data)
+We worked about Spotify music dataset which can be found [here](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset/data).
+
 Our idea is to use RNN technique with LSTM units and Feed-Forward networkd with droput layers.
 
 ## 1. Naive attempt
