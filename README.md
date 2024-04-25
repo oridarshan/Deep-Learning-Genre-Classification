@@ -38,7 +38,6 @@ the accuracy got better to 40% which is still low for our first goal and assumpt
 Predicting music tracks genre based on their characteristics turned out to be a difficult task.
 Complex models like LSTM did bring better results, however too complex models were hard to train.
 Methods that help against overfitting didn’t help because we didn’t manage to interpolate the data.
-Valid results on Kaggle: 20-25% were accuracy which is much lower than us.
 people that reached better results on kaggle $TBD AMIR
 
 
