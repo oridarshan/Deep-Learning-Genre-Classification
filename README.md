@@ -1,4 +1,4 @@
-![image](https://github.com/oridarshan/Deep-Learning-Genre-Classification/assets/89981387/b71efe1e-2c12-4919-bb45-6407835e4f31)![image](https://github.com/oridarshan/Deep-Learning-Genre-Classification/assets/89981387/1d3a33eb-b1b2-4df0-8e5f-826e487c5fd7)# Spotify-Genre-Classification
+# Spotify-Genre-Classification
 
 We worked about Spotify music dataset which can be found [here](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset/data)
 Our idea is to use RNN technique with LSTM units and Feed-Forward networkd with droput layers.
